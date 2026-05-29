@@ -1,0 +1,3755 @@
+{
+  "TEXTBOOKS": [
+    {
+      "id": "13",
+      "grade": 7,
+      "name": "七年级上册",
+      "version": "统编版",
+      "cover": "https://cdn.osyb.cn/gh/smn-king/guaguatingxie@main/bookimage/【统编版】七年级上册.jpg",
+      "masteredWords": 0,
+      "totalWords": 250,
+      "curriculum": [
+        {
+          "unit": "1",
+          "unitName": "第一单元",
+          "lessons": [
+            {
+              "id": "1-1",
+              "title": "春",
+              "index": "1",
+              "isLearned": false,
+              "type": "text",
+              "masteredCount": 0,
+              "unmasteredCount": 1,
+              "tables": {
+                "recognition": [],
+                "writing": [
+                  {
+                    "text": "嗡",
+                    "status": "new",
+                    "pinyin": [
+                      "wēng"
+                    ],
+                    "relatedWords": [
+                      "嗡嗡",
+                      "嗡嗡叫",
+                      "嗡鸣",
+                      "嗡嗡作响"
+                    ],
+                    "sentences": [
+                      "夏天的午后，蜜蜂在花丛中嗡嗡地飞来飞去，忙着采集花蜜。",
+                      "教室里很安静，只听见电风扇嗡嗡转动的声音，大家正在认真写字。"
+                    ]
+                  }
+                ],
+                "vocab": [
+                  {
+                    "text": "朗润",
+                    "status": "new",
+                    "pinyin": [
+                      "lǎng",
+                      "rùn"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "春天来了，山变得朗润起来，小河水也哗哗地流着。",
+                      "经过一场春雨，空气特别清新，远处的山看起来朗润多了。"
+                    ]
+                  },
+                  {
+                    "text": "酝酿",
+                    "status": "new",
+                    "pinyin": [
+                      "yùn",
+                      "niàng"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "妈妈在厨房里忙着，正在酝酿一场美味的晚餐。",
+                      "春天像在酝酿一个好消息，花儿慢慢开了，小鸟也唱起歌来。"
+                    ]
+                  },
+                  {
+                    "text": "卖弄",
+                    "status": "new",
+                    "pinyin": [
+                      "mài",
+                      "nòng"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "小明学会了一首新歌，就总在同学们面前卖弄，大家都不太喜欢。",
+                      "孔雀在动物园里展开尾巴，好像故意卖弄它漂亮的羽毛。"
+                    ]
+                  },
+                  {
+                    "text": "喉咙",
+                    "status": "new",
+                    "pinyin": [
+                      "hóu",
+                      "lóng"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "早上天气干燥，我的喉咙有点发痒，妈妈让我多喝温水。",
+                      "他在台上大声朗诵诗歌，喉咙里发出的声音像钟声一样洪亮。"
+                    ]
+                  },
+                  {
+                    "text": "应和",
+                    "status": "new",
+                    "pinyin": [
+                      "yìng",
+                      "hè"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "小鸟在树上唱歌，微风轻轻吹过树叶，像是在应和它的歌声。",
+                      "课堂上，老师提问，大家齐声应和，气氛非常热烈。"
+                    ]
+                  },
+                  {
+                    "text": "嘹亮",
+                    "status": "new",
+                    "pinyin": [
+                      "liáo",
+                      "liàng"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "清晨，公鸡发出嘹亮的啼叫声，唤醒了整个村庄。",
+                      "运动会上，运动员们的口号声嘹亮又整齐，让人感到精神振奋。"
+                    ]
+                  },
+                  {
+                    "text": "烘托",
+                    "status": "new",
+                    "pinyin": [
+                      "hōng",
+                      "tuō"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "舞台上，蓝色的灯光很好地烘托出夜晚的气氛。",
+                      "妈妈在节日里做了一桌好菜，这些美食烘托出团圆的快乐。"
+                    ]
+                  },
+                  {
+                    "text": "静默",
+                    "status": "new",
+                    "pinyin": [
+                      "jìng",
+                      "mò"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "图书馆里大家都在安静看书，整个屋子一片静默。",
+                      "夜晚，公园里静默无声，只有月亮在天空静静照着。"
+                    ]
+                  },
+                  {
+                    "text": "风筝",
+                    "status": "new",
+                    "pinyin": [
+                      "fēng",
+                      "zhēng"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "春天来了，公园里有许多人在放风筝，五颜六色的风筝在天空飘舞。",
+                      "爷爷亲手给我扎了一个风筝，虽然简单，但飞得特别高，让我很开心。"
+                    ]
+                  },
+                  {
+                    "text": "抖擞",
+                    "status": "new",
+                    "pinyin": [
+                      "dǒu",
+                      "sòu"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "早上起床后，我抖擞精神，准备迎接新一天的学习。",
+                      "爷爷每天早晨都会到公园里抖擞抖擞身体，然后开始打太极拳。"
+                    ]
+                  },
+                  {
+                    "text": "健壮",
+                    "status": "new",
+                    "pinyin": [
+                      "jiàn",
+                      "zhuàng"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "经过一个冬天的锻炼，我的身体变得更加健壮，跑步再也不气喘吁吁了。",
+                      "爸爸每天坚持运动，所以他的身体很健壮，能扛起一袋大米。"
+                    ]
+                  },
+                  {
+                    "text": "呼朋引伴",
+                    "status": "new",
+                    "pinyin": [
+                      "hū",
+                      "péng",
+                      "yǐn",
+                      "bàn"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "放学后，小明呼朋引伴地叫上几个好朋友一起去公园踢足球。",
+                      "春天来了，小燕子呼朋引伴地飞回北方，在屋檐下筑起了新巢。"
+                    ]
+                  },
+                  {
+                    "text": "花枝招展",
+                    "status": "new",
+                    "pinyin": [
+                      "huā",
+                      "zhī",
+                      "zhāo",
+                      "zhǎn"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "六一儿童节那天，舞台上的小演员们打扮得花枝招展，表演了精彩的节目。",
+                      "公园里，那些穿着漂亮裙子的姑娘们像花枝招展的蝴蝶一样翩翩起舞。"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "1-2",
+              "title": "济南的冬天",
+              "index": "2",
+              "isLearned": false,
+              "type": "text",
+              "masteredCount": 0,
+              "unmasteredCount": 1,
+              "tables": {
+                "recognition": [],
+                "writing": [
+                  {
+                    "text": "镶",
+                    "status": "new",
+                    "pinyin": [
+                      "xiāng"
+                    ],
+                    "relatedWords": [
+                      "镶嵌",
+                      "镶牙",
+                      "镶边",
+                      "镶钻",
+                      "镶金"
+                    ],
+                    "sentences": [
+                      "爷爷的旧相框上镶嵌着一圈精致的花纹，看起来很有年代感。",
+                      "傍晚，天边的晚霞像给云朵镶上了一道金边，非常壮观。"
+                    ]
+                  }
+                ],
+                "vocab": [
+                  {
+                    "text": "单单",
+                    "status": "new",
+                    "pinyin": [
+                      "dān",
+                      "dān"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "这次考试我单单因为粗心大意，就被扣掉了好几分，下次一定要仔细检查。",
+                      "妈妈做的菜很好吃，可单单这一盘青菜有点咸，大概是盐放多了。"
+                    ]
+                  },
+                  {
+                    "text": "安适",
+                    "status": "new",
+                    "pinyin": [
+                      "ān",
+                      "shì"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "周末的午后，我躺在阳台的摇椅上看书，阳光照在身上，感觉十分安适。",
+                      "爷爷退休后住在乡下，每天种种花、散散步，日子过得非常安适。"
+                    ]
+                  },
+                  {
+                    "text": "着落",
+                    "status": "new",
+                    "pinyin": [
+                      "zhe",
+                      "luò"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "老师告诉我们，丢失的图书终于找到了着落，原来是被隔壁班借走了。",
+                      "爸爸说，这件事已经有了着落，让我安心学习，不用再担心了。"
+                    ]
+                  },
+                  {
+                    "text": "慈善",
+                    "status": "new",
+                    "pinyin": [
+                      "cí",
+                      "shàn"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "学校组织了一次慈善捐款活动，同学们纷纷拿出零花钱帮助山区的小朋友。",
+                      "妈妈经常参加慈善义卖，把卖得的钱捐给有需要的人，我觉得她很伟大。"
+                    ]
+                  },
+                  {
+                    "text": "肌肤",
+                    "status": "new",
+                    "pinyin": [
+                      "jī",
+                      "fū"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "冬天的北风像刀一样刮在脸上，我的肌肤都变得又干又疼。",
+                      "妹妹的肌肤很嫩，轻轻一碰就会红，所以妈妈总是特别小心地照顾她。"
+                    ]
+                  },
+                  {
+                    "text": "秀气",
+                    "status": "new",
+                    "pinyin": [
+                      "xiù",
+                      "qì"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "姐姐的字写得很秀气，老师经常在班上展示她的作业本。",
+                      "这座小城市虽然不大，但处处透着一种秀气的美，让人感觉很舒服。"
+                    ]
+                  },
+                  {
+                    "text": "宽敞",
+                    "status": "new",
+                    "pinyin": [
+                      "kuān",
+                      "chǎng"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "我们班的新教室很宽敞，窗户又大又亮，同学们可以在里面自由活动。",
+                      "爸爸把客厅收拾得特别宽敞，我们一家人坐在地毯上玩游戏。"
+                    ]
+                  },
+                  {
+                    "text": "贮蓄",
+                    "status": "new",
+                    "pinyin": [
+                      "zhù",
+                      "xù"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "秋天，小松鼠忙着在树洞里贮蓄松果，准备过冬吃。",
+                      "奶奶总是把好吃的贮蓄起来，等我们周末回家时才拿出来。"
+                    ]
+                  },
+                  {
+                    "text": "澄清",
+                    "status": "new",
+                    "pinyin": [
+                      "chéng",
+                      "qīng"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "老师误会了我，但经过解释后，她终于澄清了这件事。",
+                      "雨后的湖水非常澄清，能清楚地看到水底的石头和小鱼。"
+                    ]
+                  },
+                  {
+                    "text": "空灵",
+                    "status": "new",
+                    "pinyin": [
+                      "kōng",
+                      "líng"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "清晨的山谷里传来空灵的鸟叫声，让人心情特别平静。",
+                      "这首钢琴曲听起来很空灵，就像从很远的地方飘过来一样。"
+                    ]
+                  },
+                  {
+                    "text": "地毯",
+                    "status": "new",
+                    "pinyin": [
+                      "dì",
+                      "tǎn"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "客厅里铺了一块红色的地毯，我们喜欢坐在上面看书和搭积木。",
+                      "秋天，落叶铺满了小路，就像一张金色的地毯，踩上去软软的。"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "1-3",
+              "title": "雨的四季",
+              "index": "3",
+              "isLearned": false,
+              "type": "text",
+              "masteredCount": 0,
+              "unmasteredCount": 1,
+              "tables": {
+                "recognition": [],
+                "writing": [
+                  {
+                    "text": "蝉",
+                    "status": "new",
+                    "pinyin": [
+                      "chán"
+                    ],
+                    "relatedWords": [
+                      "蝉鸣",
+                      "蝉声",
+                      "蝉翼",
+                      "金蝉脱壳"
+                    ],
+                    "sentences": [
+                      "夏天，树上的蝉叫个不停。",
+                      "蝉的翅膀又薄又透明。",
+                      "知了蝉的叫声真响亮。"
+                    ]
+                  }
+                ],
+                "vocab": [
+                  {
+                    "text": "花苞",
+                    "status": "new",
+                    "pinyin": [
+                      "huā",
+                      "bāo"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "春天来了，桃花树上挂满了粉红色的花苞，过几天就要开了。",
+                      "我每天给阳台上的玫瑰浇水，终于看见它长出一个小小的花苞。"
+                    ]
+                  },
+                  {
+                    "text": "娇媚",
+                    "status": "new",
+                    "pinyin": [
+                      "jiāo",
+                      "mèi"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "春天的小花在阳光里显得格外娇媚，吸引了许多蝴蝶和蜜蜂。",
+                      "这只小猫长得很娇媚，眼睛又大又圆，大家都喜欢逗它玩。"
+                    ]
+                  },
+                  {
+                    "text": "棱镜",
+                    "status": "new",
+                    "pinyin": [
+                      "léng",
+                      "jìng"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "雨后，天空中的小水珠像小小的棱镜，把阳光折射成一道美丽的彩虹。",
+                      "科学课上，老师用透明的棱镜做实验，白光穿过它变成了七种颜色。"
+                    ]
+                  },
+                  {
+                    "text": "粗犷",
+                    "status": "new",
+                    "pinyin": [
+                      "cū",
+                      "guǎng"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "北方的冬天非常寒冷，北风像一位粗犷的巨人，呼呼地吹过大地。",
+                      "在草原上，骏马奔腾的样子显得十分粗犷，充满了力量。"
+                    ]
+                  },
+                  {
+                    "text": "睫毛",
+                    "status": "new",
+                    "pinyin": [
+                      "jié",
+                      "máo"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "妈妈轻轻闭上眼睛，她的睫毛又长又翘，像两把小扇子。",
+                      "妹妹眨了眨眼睛，睫毛上挂着晶莹的泪珠，看起来特别惹人疼爱。"
+                    ]
+                  },
+                  {
+                    "text": "衣裳",
+                    "status": "new",
+                    "pinyin": [
+                      "yī",
+                      "cháng"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "妈妈为我缝补衣裳时，总是一针一线都特别仔细，生怕扎到我。",
+                      "雨后的草原上，她的衣裳被风吹起，像一只翩翩起舞的蝴蝶。"
+                    ]
+                  },
+                  {
+                    "text": "铃铛",
+                    "status": "new",
+                    "pinyin": [
+                      "líng",
+                      "dāng"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "小猫咪脖子上的铃铛发出清脆的响声，好像在唱歌。",
+                      "微风吹过，屋檐下的铃铛叮当作响，声音悦耳动听。"
+                    ]
+                  },
+                  {
+                    "text": "端庄",
+                    "status": "new",
+                    "pinyin": [
+                      "duān",
+                      "zhuāng"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "这位女士穿着整洁的套装，举止端庄，给人留下很好的印象。",
+                      "在升旗仪式上，同学们都站得笔直，神情端庄而严肃。"
+                    ]
+                  },
+                  {
+                    "text": "静谧",
+                    "status": "new",
+                    "pinyin": [
+                      "jìng",
+                      "mì"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "夏天的夜晚，森林里一片静谧，只能听到远处传来的几声虫鸣。",
+                      "清晨的校园十分静谧，连小鸟扑翅膀的声音都能听得清清楚楚。"
+                    ]
+                  },
+                  {
+                    "text": "屋檐",
+                    "status": "new",
+                    "pinyin": [
+                      "wū",
+                      "yán"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "春雨淅淅沥沥地下着，雨水顺着屋檐滴落，像一串串透明的珠子。",
+                      "屋檐下，燕子妈妈正在给饥饿的燕子宝宝喂食，场面非常温馨。",
+                      "乡下人家的屋檐下，还挂着一串串金黄色的玉米，那是丰收的象征。"
+                    ]
+                  },
+                  {
+                    "text": "凄凉",
+                    "status": "new",
+                    "pinyin": [
+                      "qī",
+                      "liáng"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "深秋的傍晚，望着窗外飘落的黄叶和空旷的街道，心中涌起一股难以言说的凄凉。",
+                      "一个被遗弃在角落里的布娃娃，脸上蒙着灰尘，流露出一种无助的凄凉。"
+                    ]
+                  },
+                  {
+                    "text": "化妆",
+                    "status": "new",
+                    "pinyin": [
+                      "huà",
+                      "zhuāng"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "在学校的文艺汇演中，老师帮我们化妆，画上红红的腮帮子，特别有趣。",
+                      "妈妈出门前总是简单化妆，她说不化妆会显得没有精神。"
+                    ]
+                  },
+                  {
+                    "text": "莅临",
+                    "status": "new",
+                    "pinyin": [
+                      "lì",
+                      "lín"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "今天，教育局的领导莅临我们学校参观，同学们都热烈鼓掌欢迎。",
+                      "春天莅临了人间，冰雪融化，小草从泥土里探出了嫩绿的脑袋。"
+                    ]
+                  },
+                  {
+                    "text": "造访",
+                    "status": "new",
+                    "pinyin": [
+                      "zào",
+                      "fǎng"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "周末，我和爸爸一起去乡下老家造访了年迈的爷爷奶奶。",
+                      "小鸟常常造访我们家的阳台，因为它喜欢在那里吃我洒下的小米。"
+                    ]
+                  },
+                  {
+                    "text": "吝啬",
+                    "status": "new",
+                    "pinyin": [
+                      "lìn",
+                      "sè"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "小花非常吝啬，连一块小小的橡皮都不愿意借给同桌用。",
+                      "我们不能像冬天里的寒风那样吝啬，要学会大方地帮助别人。"
+                    ]
+                  },
+                  {
+                    "text": "淅沥",
+                    "status": "new",
+                    "pinyin": [
+                      "xī",
+                      "lì"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "窗外的小雨淅沥地下着，我坐在书桌前认真地写作业。",
+                      "春天的夜晚，雨声淅沥，像是大自然在轻轻地唱歌。"
+                    ]
+                  },
+                  {
+                    "text": "干涩",
+                    "status": "new",
+                    "pinyin": [
+                      "gān",
+                      "sè"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "秋天到了，空气变得很干涩，妈妈让我多喝水和吃水果。",
+                      "因为长时间用眼，我的眼睛有点干涩，所以要休息一会儿。"
+                    ]
+                  },
+                  {
+                    "text": "草垛",
+                    "status": "new",
+                    "pinyin": [
+                      "cǎo",
+                      "duǒ"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "秋天，农民伯伯把收割的稻草堆成一个个高高的草垛。",
+                      "我们在田野里玩耍，躲在草垛后面捉迷藏，大家开心极了。"
+                    ]
+                  },
+                  {
+                    "text": "绿茵茵",
+                    "status": "new",
+                    "pinyin": [
+                      "lǜ",
+                      "yīn",
+                      "yīn"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "春天来了，山坡上长满了绿茵茵的小草，就像铺上了一块绿色的地毯。",
+                      "足球场上绿茵茵的草坪非常柔软，我们在上面奔跑和踢球。"
+                    ]
+                  },
+                  {
+                    "text": "咄咄逼人",
+                    "status": "new",
+                    "pinyin": [
+                      "duō",
+                      "duō",
+                      "bī",
+                      "rén"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "弟弟用咄咄逼人的语气追问我把他的玩具藏到哪里去了，让我有点害怕。",
+                      "比赛时对方队员的气势咄咄逼人，但我们仍然沉着冷静地应对。"
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "unit": "2",
+          "unitName": "第二单元",
+          "lessons": [
+            {
+              "id": "2-1",
+              "title": "秋天的怀念",
+              "index": "4",
+              "isLearned": false,
+              "type": "text",
+              "masteredCount": 0,
+              "unmasteredCount": 0,
+              "tables": {
+                "recognition": [],
+                "writing": [],
+                "vocab": [
+                  {
+                    "text": "瘫痪",
+                    "status": "new",
+                    "pinyin": [
+                      "tān",
+                      "huàn"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "爷爷因为生病导致双腿瘫痪，但他每天坚持做康复训练，非常坚强。",
+                      "一场大风吹倒了电线杆，导致整个小镇的交通和通信都瘫痪了。"
+                    ]
+                  },
+                  {
+                    "text": "暴怒",
+                    "status": "new",
+                    "pinyin": [
+                      "bào",
+                      "nù"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "爸爸看到我考试不及格的成绩单，暴怒地拍了一下桌子，然后开始教育我。",
+                      "因为小明不小心打碎了花瓶，妈妈并没有暴怒，只是温柔地提醒他下次小心。"
+                    ]
+                  },
+                  {
+                    "text": "沉寂",
+                    "status": "new",
+                    "pinyin": [
+                      "chén",
+                      "jì"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "深夜，整个村庄陷入沉寂，只有远处偶尔传来几声狗叫。",
+                      "老师走进教室后，原本吵闹的课堂立刻变得沉寂下来。"
+                    ]
+                  },
+                  {
+                    "text": "侍弄",
+                    "status": "new",
+                    "pinyin": [
+                      "shì",
+                      "nòng"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "奶奶每天早起在阳台上侍弄她最爱的兰花，浇水、施肥，忙得不亦乐乎。",
+                      "爸爸周末会去菜园里侍弄蔬菜，松土、除草，让它们长得更茂盛。"
+                    ]
+                  },
+                  {
+                    "text": "捶打",
+                    "status": "new",
+                    "pinyin": [
+                      "chuí",
+                      "dá"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "妈妈在厨房里用力捶打面团，准备给我做香喷喷的馒头。",
+                      "秋天到了，奶奶用木棒捶打树上的核桃，噼噼啪啪掉了一地。"
+                    ]
+                  },
+                  {
+                    "text": "憔悴",
+                    "status": "new",
+                    "pinyin": [
+                      "qiáo",
+                      "cuì"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "爸爸因为连续加班，脸色变得很憔悴，妈妈让他早点休息。",
+                      "小树苗被大风吹得叶子都蔫了，显得特别憔悴，我赶紧给它浇了水。"
+                    ]
+                  },
+                  {
+                    "text": "央求",
+                    "status": "new",
+                    "pinyin": [
+                      "yāng",
+                      "qiú"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "我央求妈妈周末带我去动物园看大熊猫，她终于答应了。",
+                      "小明央求哥哥教他骑自行车，哥哥扶着他练了一个下午。"
+                    ]
+                  },
+                  {
+                    "text": "絮叨",
+                    "status": "new",
+                    "pinyin": [
+                      "xù",
+                      "dāo"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "奶奶总是絮叨着让我多穿衣服，虽然有点烦，但我知道她关心我。",
+                      "老师絮叨了半天，让我们把字写工整，还说卷面分很重要。"
+                    ]
+                  },
+                  {
+                    "text": "诀别",
+                    "status": "new",
+                    "pinyin": [
+                      "jué",
+                      "bié"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "爷爷和多年的老友在车站诀别，两个人红着眼眶一直挥手。",
+                      "秋天落叶与大树诀别，飘向远方，来年春天又会再见。"
+                    ]
+                  },
+                  {
+                    "text": "淡雅",
+                    "status": "new",
+                    "pinyin": [
+                      "dàn",
+                      "yǎ"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "春天的公园里，淡雅的白色小花开得满树都是，香气飘得很远。",
+                      "妈妈喜欢穿淡雅的衣服，她说这样的颜色让人感觉很舒服。"
+                    ]
+                  },
+                  {
+                    "text": "高洁",
+                    "status": "new",
+                    "pinyin": [
+                      "gāo",
+                      "jié"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "大雪过后，梅花在枝头傲然开放，显得格外高洁而美丽。",
+                      "老师教导我们要做一个品格高洁的人，就像课本里说的那些英雄。"
+                    ]
+                  },
+                  {
+                    "text": "烂漫",
+                    "status": "new",
+                    "pinyin": [
+                      "làn",
+                      "màn"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "春天来了，山坡上开满了烂漫的野花，远远看去就像彩色地毯。",
+                      "六一儿童节，小朋友们穿着漂亮的衣服，脸上挂着烂漫的笑容。"
+                    ]
+                  },
+                  {
+                    "text": "翻来覆去",
+                    "status": "new",
+                    "pinyin": [
+                      "fān",
+                      "lái",
+                      "fù",
+                      "qù"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "因为明天要去春游，我激动得翻来覆去，直到很晚才睡着。",
+                      "妈妈翻来覆去看那张旧照片，回忆起她小时候的快乐时光。"
+                    ]
+                  },
+                  {
+                    "text": "喜出望外",
+                    "status": "new",
+                    "pinyin": [
+                      "xǐ",
+                      "chū",
+                      "wàng",
+                      "wài"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "听到爸爸说明天带我去动物园，我喜出望外，赶紧去收拾背包。",
+                      "数学考试得了满分，我喜出望外，连忙跑回家把试卷拿给妈妈看。"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "2-2",
+              "title": "散步",
+              "index": "5",
+              "isLearned": false,
+              "type": "text",
+              "masteredCount": 0,
+              "unmasteredCount": 0,
+              "tables": {
+                "recognition": [],
+                "writing": [],
+                "vocab": [
+                  {
+                    "text": "信服",
+                    "status": "new",
+                    "pinyin": [
+                      "xìn",
+                      "fú"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "老师说的道理让我十分信服，从那以后我再也不挑食了。",
+                      "爸爸用实验证明了浮力原理，我信服地点点头，觉得科学真有趣。"
+                    ]
+                  },
+                  {
+                    "text": "分歧",
+                    "status": "new",
+                    "pinyin": [
+                      "fēn",
+                      "qí"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "我和同桌在选择课外书时产生了分歧，后来我们决定各选一本交换看。",
+                      "关于周末去哪里玩，爸爸妈妈有分歧，最后我们投票决定去爬山。"
+                    ]
+                  },
+                  {
+                    "text": "取决",
+                    "status": "new",
+                    "pinyin": [
+                      "qǔ",
+                      "jué"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "这次运动会能不能拿名次，取决于我们平时训练是否认真。",
+                      "明天去不去野餐，取决于天气是不是晴朗，我们都很期待。"
+                    ]
+                  },
+                  {
+                    "text": "一霎",
+                    "status": "new",
+                    "pinyin": [
+                      "yī",
+                      "shà"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "烟花在空中炸开的一霎，整个夜空都被照亮了，大家齐声欢呼。",
+                      "流星划过天际的一霎，我赶紧闭上眼睛，默默许下一个生日愿望。"
+                    ]
+                  },
+                  {
+                    "text": "两全",
+                    "status": "new",
+                    "pinyin": [
+                      "liǎng",
+                      "quán"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "这个办法虽然能节省时间，但是不能保证质量，很难两全。",
+                      "妈妈想了一个两全的办法，既可以陪我做作业，又不会耽误她做饭。"
+                    ]
+                  },
+                  {
+                    "text": "粼粼",
+                    "status": "new",
+                    "pinyin": [
+                      "lín",
+                      "lín"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "阳光下，湖面波光粼粼，像撒了一层金色的碎银子。",
+                      "雨后的小河清澈见底，水面上泛着粼粼的波纹，美丽极了。"
+                    ]
+                  },
+                  {
+                    "text": "各得其所",
+                    "status": "new",
+                    "pinyin": [
+                      "gè",
+                      "de",
+                      "qí",
+                      "suǒ"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "超市里的玩具被小朋友们分好了，每个人都各得其所，开心地抱着新玩具回家。",
+                      "在班级大扫除中，老师安排大家分工合作，每个人都各得其所，教室很快变得干净又整齐。"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "2-3",
+              "title": "散文诗二首",
+              "index": "6",
+              "isLearned": false,
+              "type": "text",
+              "masteredCount": 0,
+              "unmasteredCount": 2,
+              "tables": {
+                "recognition": [],
+                "writing": [
+                  {
+                    "text": "蒂",
+                    "status": "new",
+                    "pinyin": [
+                      "dì"
+                    ],
+                    "relatedWords": [
+                      "瓜蒂",
+                      "花蒂",
+                      "并蒂",
+                      "果蒂"
+                    ],
+                    "sentences": [
+                      "秋天到了，果园里的苹果熟透了，风一吹就从蒂上掉下来，滚落一地。",
+                      "奶奶种的那株南瓜，花蒂谢了以后，慢慢长出一个绿色的南瓜来。"
+                    ]
+                  },
+                  {
+                    "text": "梗",
+                    "status": "new",
+                    "pinyin": [
+                      "gěng"
+                    ],
+                    "relatedWords": [
+                      "花梗",
+                      "叶梗",
+                      "梗概",
+                      "菜梗"
+                    ],
+                    "sentences": [
+                      "池塘里的荷花虽然谢了，但长长花梗还立在水中，像一根根绿色的小棍子。",
+                      "这道菜的菜梗有点硬，不过我咬得动，而且味道很不错。"
+                    ]
+                  }
+                ],
+                "vocab": [
+                  {
+                    "text": "匿笑",
+                    "status": "new",
+                    "pinyin": [
+                      "nì",
+                      "xiào"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "表弟躲在门后偷偷匿笑，因为他在我的课本上画了一个小怪兽，等着我发现。",
+                      "课堂上，老师讲了一个有趣的故事，好几个同学没忍住，低头匿笑出声来。"
+                    ]
+                  },
+                  {
+                    "text": "沐浴",
+                    "status": "new",
+                    "pinyin": [
+                      "mù",
+                      "yù"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "春天来了，小树在阳光下沐浴着温暖的阳光，慢慢长出嫩绿的新芽。",
+                      "每个周末，妈妈都会让我好好沐浴更衣，然后一起开开心心地去公园玩。"
+                    ]
+                  },
+                  {
+                    "text": "祷告",
+                    "status": "new",
+                    "pinyin": [
+                      "dǎo",
+                      "gào"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "每天晚上睡觉前，小美都会默默祷告，希望远方的奶奶身体早日康复。",
+                      "教堂里的人们闭着眼睛安静祷告，烛光照在他们脸上，显得十分祥和。"
+                    ]
+                  },
+                  {
+                    "text": "姊妹",
+                    "status": "new",
+                    "pinyin": [
+                      "zǐ",
+                      "mèi"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "我家隔壁住着一对姊妹，她们每天手拉手一起去上学，感情特别好。",
+                      "那对姊妹花穿着一样的裙子，站在花丛中拍照，就像一对可爱的双胞胎。"
+                    ]
+                  },
+                  {
+                    "text": "亭亭",
+                    "status": "new",
+                    "pinyin": [
+                      "tíng",
+                      "tíng"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "夏天，荷花池里的荷花亭亭玉立，有粉色的也有白色的，非常好看。",
+                      "舞蹈比赛上，她亭亭地站在舞台中央，像一只优雅的小天鹅。"
+                    ]
+                  },
+                  {
+                    "text": "徘徊",
+                    "status": "new",
+                    "pinyin": [
+                      "pái",
+                      "huái"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "我在书店里徘徊许久，终于决定买下那本期待已久的科幻小说。",
+                      "面对选择，他不再徘徊，坚定地朝着自己向往的中学目标努力。"
+                    ]
+                  },
+                  {
+                    "text": "遮蔽",
+                    "status": "new",
+                    "pinyin": [
+                      "zhē",
+                      "bì"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "夏天的时候，我们喜欢站在大树底下，因为茂密的树叶可以遮蔽火辣辣的太阳。",
+                      "放学后突然下起大雨，我急忙跑到路边的屋檐下，让屋檐遮蔽一会儿再回家。"
+                    ]
+                  },
+                  {
+                    "text": "心绪",
+                    "status": "new",
+                    "pinyin": [
+                      "xīn",
+                      "xù"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "考试之前，我的心绪一直很紧张，因为怕自己没复习好，所以翻来覆去睡不着。",
+                      "听到明天要去春游的消息，同学们的心绪都非常激动，讨论了一整个课间。"
+                    ]
+                  },
+                  {
+                    "text": "流转",
+                    "status": "new",
+                    "pinyin": [
+                      "liú",
+                      "zhuàn"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "时间一年一年地流转，转眼间我已经从一年级升到了三年级，懂了不少道理。",
+                      "公园里的摩天轮慢慢地流转，坐在上面能看到远处的山和城市的高楼。"
+                    ]
+                  },
+                  {
+                    "text": "荫蔽",
+                    "status": "new",
+                    "pinyin": [
+                      "yìn",
+                      "bì"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "夏天中午，农民伯伯在田边的树荫下休息，树荫遮蔽了强烈的阳光，让他们觉得凉快。",
+                      "老房子门前有一棵大槐树，它长长的枝叶荫蔽着整条小路，走起来很舒服。"
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "unit": "3",
+          "unitName": "第三单元",
+          "lessons": [
+            {
+              "id": "3-1",
+              "title": "从百草园到三味书屋",
+              "index": "7",
+              "isLearned": false,
+              "type": "text",
+              "masteredCount": 0,
+              "unmasteredCount": 4,
+              "tables": {
+                "recognition": [],
+                "writing": [
+                  {
+                    "text": "窜",
+                    "status": "new",
+                    "pinyin": [
+                      "cuàn"
+                    ],
+                    "relatedWords": [
+                      "乱窜",
+                      "窜出",
+                      "窜动",
+                      "窜来窜去",
+                      "往上窜"
+                    ],
+                    "sentences": [
+                      "一只小兔子从草丛里窜了出来。",
+                      "弟弟在房间里窜来窜去，真调皮。",
+                      "气球一下子往上窜，飞到了天上。"
+                    ]
+                  },
+                  {
+                    "text": "觅",
+                    "status": "new",
+                    "pinyin": [
+                      "mì"
+                    ],
+                    "relatedWords": [
+                      "寻觅",
+                      "觅食",
+                      "觅宝",
+                      "觅友"
+                    ],
+                    "sentences": [
+                      "小鸟在草地上寻觅食物。",
+                      "我和爸爸一起去公园寻觅春天。"
+                    ]
+                  },
+                  {
+                    "text": "跪",
+                    "status": "new",
+                    "pinyin": [
+                      "guì"
+                    ],
+                    "relatedWords": [
+                      "跪下",
+                      "跪坐",
+                      "跪倒",
+                      "跪拜"
+                    ],
+                    "sentences": [
+                      "在庙里，人们虔诚地跪拜祈愿，希望家人平安健康。",
+                      "小明不小心摔倒了，他赶紧用手撑地，没有完全跪倒在地上。",
+                      "过年时，我和弟弟给爷爷奶奶跪下磕头，祝他们新年快乐。"
+                    ]
+                  },
+                  {
+                    "text": "拗",
+                    "status": "new",
+                    "pinyin": [
+                      "ào"
+                    ],
+                    "relatedWords": [
+                      "执拗",
+                      "拗口",
+                      "拗不过",
+                      "违拗",
+                      "拗性"
+                    ],
+                    "sentences": [
+                      "弟弟性格很执拗，坚持要自己系鞋带。",
+                      "这段绕口令真拗口，我练了好几遍才读顺。"
+                    ]
+                  }
+                ],
+                "vocab": [
+                  {
+                    "text": "确凿",
+                    "status": "new",
+                    "pinyin": [
+                      "què",
+                      "záo"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "小明说他的作业确实写完了，而且有爸爸签字，所以这件事是确凿的，老师相信了他。",
+                      "警察叔叔通过监控找到了确凿的证据，说明那个人的确偷了车，于是把他带走了。"
+                    ]
+                  },
+                  {
+                    "text": "轻捷",
+                    "status": "new",
+                    "pinyin": [
+                      "qīng",
+                      "jié"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "小松鼠在树枝之间跳来跳去，动作非常轻捷，一会儿就跳到了树顶，把我们都看呆了。",
+                      "体操比赛时，她动作轻捷地翻了一个跟头，然后稳稳地站住，大家都热烈鼓掌。"
+                    ]
+                  },
+                  {
+                    "text": "云霄",
+                    "status": "new",
+                    "pinyin": [
+                      "yún",
+                      "xiāo"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "国庆节的晚上，烟花飞上云霄，整片天空都被照得五颜六色，非常美丽。",
+                      "风筝越飞越高，好像要飞到云霄里去，我赶紧拽紧线轴，怕它跑掉。"
+                    ]
+                  },
+                  {
+                    "text": "倘若",
+                    "status": "new",
+                    "pinyin": [
+                      "tǎng",
+                      "ruò"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "倘若明天下雨，我们的春游计划就要推迟，不过我觉得在教室里看书也不错。",
+                      "倘若你细心观察，就会发现乡下人家的屋檐下，总有小燕子在那里筑巢安家。"
+                    ]
+                  },
+                  {
+                    "text": "鉴赏",
+                    "status": "new",
+                    "pinyin": [
+                      "jiàn",
+                      "shǎng"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "美术课上，老师带我们鉴赏了几幅名画，教我们怎样看画里的颜色和线条，我觉得很有趣。",
+                      "周末，爸爸带我去博物馆鉴赏古代瓷器，那些瓶瓶罐罐上的花纹特别精致。"
+                    ]
+                  },
+                  {
+                    "text": "啄食",
+                    "status": "new",
+                    "pinyin": [
+                      "zhuó",
+                      "shí"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "老母鸡带着小鸡在院子里啄食，它们把地上的米粒吃得干干净净。",
+                      "秋天到了，麻雀飞到田里啄食稻谷，农民伯伯一点也不生气。"
+                    ]
+                  },
+                  {
+                    "text": "和蔼",
+                    "status": "new",
+                    "pinyin": [
+                      "hé",
+                      "ǎi"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "我们的班主任老师总是那么和蔼，说话时面带微笑，让我们感到十分亲切。",
+                      "邻居张爷爷虽然年过七旬，但对每个孩子都特别和蔼，大家都很喜欢他。"
+                    ]
+                  },
+                  {
+                    "text": "恭敬",
+                    "status": "new",
+                    "pinyin": [
+                      "gōng",
+                      "jìng"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "小明走进办公室，恭敬地向老师敬了一个队礼，然后交上了作业本。",
+                      "奶奶过生日时，我恭敬地端上一杯热茶，祝奶奶健康长寿。"
+                    ]
+                  },
+                  {
+                    "text": "质朴",
+                    "status": "new",
+                    "pinyin": [
+                      "zhì",
+                      "pǔ"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "爷爷写的字虽然简单，却有一种非常质朴的美感。",
+                      "我喜欢那种质朴的生活，不需要太多华丽的东西。"
+                    ]
+                  },
+                  {
+                    "text": "博学",
+                    "status": "new",
+                    "pinyin": [
+                      "bó",
+                      "xué"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "我们的语文老师非常博学，他不仅懂古诗，还知道很多科学知识。",
+                      "表哥看了很多书，大家都夸奖他是一个博学的好学生。"
+                    ]
+                  },
+                  {
+                    "text": "渊博",
+                    "status": "new",
+                    "pinyin": [
+                      "yuān",
+                      "bó"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "图书馆里的老爷爷知识非常渊博，他总能回答我们提出的各种奇怪问题。",
+                      "爸爸的学问很渊博，他一边给我讲故事，一边教我做人道理。"
+                    ]
+                  },
+                  {
+                    "text": "倜傥",
+                    "status": "new",
+                    "pinyin": [
+                      "tì",
+                      "tǎng"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "电视里的那位古代诗人风度倜傥，他拿着扇子在江边吟诗作画。",
+                      "叔叔年轻的时候十分倜傥，大家都说他像电影里的英雄一样潇洒。"
+                    ]
+                  },
+                  {
+                    "text": "淋漓",
+                    "status": "new",
+                    "pinyin": [
+                      "lín",
+                      "lí"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "雨下得酣畅淋漓，院子里的花草都被冲洗得干干净净，空气特别清新。",
+                      "画家叔叔画了一幅山水图，笔墨酣畅淋漓，大家都连连称赞。"
+                    ]
+                  },
+                  {
+                    "text": "盔甲",
+                    "status": "new",
+                    "pinyin": [
+                      "kuī",
+                      "jiǎ"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "博物馆里陈列着一副古代将军的盔甲，它保护士兵在战场上不受伤害。",
+                      "弟弟穿上玩具盔甲，拿着木剑，神气地喊着要当大将军。"
+                    ]
+                  },
+                  {
+                    "text": "绅士",
+                    "status": "new",
+                    "pinyin": [
+                      "shēn",
+                      "shì"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "爸爸总是像绅士一样帮妈妈开门，还会主动给老人让座。",
+                      "在音乐会上，那位穿着黑西装的绅士轻轻鼓掌，非常有礼貌。"
+                    ]
+                  },
+                  {
+                    "text": "人迹罕至",
+                    "status": "new",
+                    "pinyin": [
+                      "rén",
+                      "jì",
+                      "hǎn",
+                      "zhì"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "暑假，爸爸带我去爬山，我们走进一片人迹罕至的森林，只听见鸟叫和风吹树叶的声音。",
+                      "那个山谷因为人迹罕至，所以到处长满了青苔，就像童话里的神秘地方。"
+                    ]
+                  },
+                  {
+                    "text": "人声鼎沸",
+                    "status": "new",
+                    "pinyin": [
+                      "rén",
+                      "shēng",
+                      "dǐng",
+                      "fèi"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "元宵节的晚上，广场上人声鼎沸，大家都在看花灯、放烟花，热闹极了。",
+                      "下课铃一响，原本安静的走廊立刻人声鼎沸，同学们说说笑笑地往操场跑。"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "3-2",
+              "title": "往事依依",
+              "index": "8",
+              "isLearned": false,
+              "type": "text",
+              "masteredCount": 0,
+              "unmasteredCount": 0,
+              "tables": {
+                "recognition": [],
+                "writing": [],
+                "vocab": [
+                  {
+                    "text": "徜徉",
+                    "status": "new",
+                    "pinyin": [
+                      "cháng",
+                      "yáng"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "周末，我在公园的小路上徜徉，一边闻着花香，一边听着小鸟叽叽喳喳地唱歌。",
+                      "徜徉在图书馆里，我选了一本喜欢的书，坐在角落看得入了迷。"
+                    ]
+                  },
+                  {
+                    "text": "浩渺",
+                    "status": "new",
+                    "pinyin": [
+                      "hào",
+                      "miǎo"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "站在海边，望着浩渺的蓝色大海，我感觉自己像一只小小的蚂蚁。",
+                      "夜晚的星空浩渺无边，我数着亮晶晶的星星，心里充满了好奇。"
+                    ]
+                  },
+                  {
+                    "text": "非凡",
+                    "status": "new",
+                    "pinyin": [
+                      "fēi",
+                      "fán"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "在运动会上，他以非凡的毅力坚持跑完了1500米，赢得了全场的掌声。",
+                      "这件看似平凡的小事，却展现出他非凡的勇气和担当。"
+                    ]
+                  },
+                  {
+                    "text": "雕镂",
+                    "status": "new",
+                    "pinyin": [
+                      "diāo",
+                      "lòu"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "爷爷的书桌上有一个雕镂着花纹的木盒子，里面装着他年轻时得到的奖章。",
+                      "那座古老的石桥上雕镂着精美的龙和凤凰，每次路过我都要仔细看一看。"
+                    ]
+                  },
+                  {
+                    "text": "寂寞",
+                    "status": "new",
+                    "pinyin": [
+                      "jì",
+                      "mò"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "在荒岛上的漫长岁月里，鲁滨逊感到无比的寂寞，于是他开始训练一只鹦鹉来陪伴自己。",
+                      "周末的图书馆里空荡荡的，只有我一个人在书架间徜徉，但这并不让我觉得寂寞。"
+                    ]
+                  },
+                  {
+                    "text": "谆谆",
+                    "status": "new",
+                    "pinyin": [
+                      "zhūn",
+                      "zhūn"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "老师谆谆地告诉我们，读书要用心，不能只读一遍就放下。",
+                      "临走时，妈妈谆谆叮嘱我要系好鞋带，注意安全，我使劲点了点头。"
+                    ]
+                  },
+                  {
+                    "text": "搜索枯肠",
+                    "status": "new",
+                    "pinyin": [
+                      "sōu",
+                      "suǒ",
+                      "kū",
+                      "cháng"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "写作文的时候，我搜索枯肠也想不出一个合适的词语，急得直挠头。",
+                      "爸爸搜索枯肠，终于讲出一个有趣的童年故事，逗得我哈哈大笑。"
+                    ]
+                  },
+                  {
+                    "text": "气象万千",
+                    "status": "new",
+                    "pinyin": [
+                      "qì",
+                      "xiàng",
+                      "wàn",
+                      "qiān"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "登上山顶，眼前的气象万千让我惊呆了：云海、山峰、阳光交织在一起。",
+                      "春天的公园气象万千，桃花开了，柳树绿了，到处生机勃勃。"
+                    ]
+                  },
+                  {
+                    "text": "鸦雀无声",
+                    "status": "new",
+                    "pinyin": [
+                      "yā",
+                      "què",
+                      "wú",
+                      "shēng"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "老师走进教室时，原本吵闹的同学们立刻鸦雀无声，安静地坐在座位上。",
+                      "图书馆里鸦雀无声，大家都专心地看着自己手里的书本，不敢大声说话。"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "3-3",
+              "title": "再塑生命的人",
+              "index": "9",
+              "isLearned": false,
+              "type": "text",
+              "masteredCount": 0,
+              "unmasteredCount": 1,
+              "tables": {
+                "recognition": [],
+                "writing": [
+                  {
+                    "text": "攫",
+                    "status": "new",
+                    "pinyin": [
+                      "jué"
+                    ],
+                    "relatedWords": [
+                      "攫取",
+                      "攫住",
+                      "掠夺",
+                      "抢夺",
+                      "抓取"
+                    ],
+                    "sentences": [
+                      "老鹰突然从天空中俯冲下来，用锋利的爪子攫住了一只正在草丛里吃草的小兔子。",
+                      "小偷趁人不注意，飞快地攫走了奶奶放在长椅上的钱包，然后跑得无影无踪。"
+                    ]
+                  }
+                ],
+                "vocab": [
+                  {
+                    "text": "衡量",
+                    "status": "new",
+                    "pinyin": [
+                      "héng",
+                      "liáng"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "妈妈告诉我，买东西前要好好衡量一下自己的零花钱够不够，不能乱花。",
+                      "在做决定之前，爸爸总是会仔细衡量每个选择的好处和坏处，所以很少出错。"
+                    ]
+                  },
+                  {
+                    "text": "绽放",
+                    "status": "new",
+                    "pinyin": [
+                      "zhàn",
+                      "fàng"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "春天来了，公园里的桃花在温暖的阳光下慢慢绽放，散发出淡淡的香味。",
+                      "听到自己获得了比赛第一名，她的脸上绽放出灿烂的笑容，眼睛都眯成了月牙。"
+                    ]
+                  },
+                  {
+                    "text": "吞噬",
+                    "status": "new",
+                    "pinyin": [
+                      "tūn",
+                      "shì"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "熊熊大火迅速蔓延开来，贪婪地吞噬着整座破旧的老房子，浓烟滚滚。",
+                      "黑色的乌云渐渐遮住了天空，好像要把整个大地都吞噬掉，很快就要下雨了。"
+                    ]
+                  },
+                  {
+                    "text": "稚气",
+                    "status": "new",
+                    "pinyin": [
+                      "zhì",
+                      "qì"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "弟弟虽然已经上小学了，但说话时脸上仍然带着一种可爱的稚气，让人想笑。",
+                      "电影里那个小女孩的声音充满了稚气，她问妈妈的问题总是既简单又好笑。"
+                    ]
+                  },
+                  {
+                    "text": "搁置",
+                    "status": "new",
+                    "pinyin": [
+                      "gé",
+                      "zhì"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "因为下雨了，今天下午的体育课被暂时搁置，我们只好在教室里看动画片。",
+                      "爸爸把那个破旧的书架搁置在阳台上好几年，上面落满了灰，一直没人管。"
+                    ]
+                  },
+                  {
+                    "text": "不适",
+                    "status": "new",
+                    "pinyin": [
+                      "bù",
+                      "shì"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "昨天吃太多冰淇淋，今天早上我觉得肚子有点不适，所以请了半天假在家休息。",
+                      "刚搬到新城市的时候，小虎因为不适应环境，心里总有一种说不出的不适感。"
+                    ]
+                  },
+                  {
+                    "text": "沁凉",
+                    "status": "new",
+                    "pinyin": [
+                      "qìn",
+                      "liáng"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "夏天，妈妈给我切了一块西瓜，咬一口，沁凉的甜味让我觉得好舒服。",
+                      "山泉水从石缝里流出来，摸起来沁凉沁凉的，我和小伙伴都喜欢在那里洗手。"
+                    ]
+                  },
+                  {
+                    "text": "阐释",
+                    "status": "new",
+                    "pinyin": [
+                      "chǎn",
+                      "shì"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "科学课上，老师向我们阐释了种子发芽需要阳光、水和适宜的温度。",
+                      "爸爸用简单的例子向我阐释了为什么要节约用水，让我明白了其中的道理。"
+                    ]
+                  },
+                  {
+                    "text": "悔恨",
+                    "status": "new",
+                    "pinyin": [
+                      "huǐ",
+                      "hèn"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "因为我没有认真复习，所以考试时好多题不会做，心里充满了悔恨。",
+                      "小明不小心打碎了邻居家的花盆，他十分悔恨，主动去道歉并赔偿。"
+                    ]
+                  },
+                  {
+                    "text": "茫然无措",
+                    "status": "new",
+                    "pinyin": [
+                      "máng",
+                      "rán",
+                      "wú",
+                      "cuò"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "第一次独自去超市买东西，我找不到要买的酱油，站在货架前茫然无措。",
+                      "放学时突然下起大雨，而我又没带伞，看着同学们一个个被接走，我茫然无措。"
+                    ]
+                  },
+                  {
+                    "text": "无休无止",
+                    "status": "new",
+                    "pinyin": [
+                      "wú",
+                      "xiū",
+                      "wú",
+                      "zhǐ"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "弟弟无休无止地问我问题，虽然有些烦，但我还是耐心地回答了他。",
+                      "窗外的蝉鸣无休无止地响着，让人感觉这个夏天格外漫长。"
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "unit": "4",
+          "unitName": "第四单元",
+          "lessons": [
+            {
+              "id": "4-1",
+              "title": "纪念白求恩",
+              "index": "10",
+              "isLearned": false,
+              "type": "text",
+              "masteredCount": 0,
+              "unmasteredCount": 1,
+              "tables": {
+                "recognition": [],
+                "writing": [
+                  {
+                    "text": "冀",
+                    "status": "new",
+                    "pinyin": [
+                      "jì"
+                    ],
+                    "relatedWords": [
+                      "希冀",
+                      "冀望",
+                      "冀求",
+                      "冀图"
+                    ],
+                    "sentences": [
+                      "我们心中都充满希冀，希望这次班级朗诵比赛能够获得好成绩。",
+                      "小燕子从南方飞回来，它们冀望着在屋檐下筑巢，迎接新的春天。"
+                    ]
+                  }
+                ],
+                "vocab": [
+                  {
+                    "text": "派遣",
+                    "status": "new",
+                    "pinyin": [
+                      "pā",
+                      "qiǎn"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "学校派遣我们班去参加市里的合唱比赛，大家都很兴奋。",
+                      "爸爸被公司派遣到外地工作，虽然舍不得，但我们每周都会视频聊天。"
+                    ]
+                  },
+                  {
+                    "text": "殉职",
+                    "status": "new",
+                    "pinyin": [
+                      "xùn",
+                      "zhí"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "消防员叔叔为了保护大家的安全，在救火时不幸殉职，我们永远怀念他。",
+                      "课本里讲到的英雄，有的因为坚守岗位而殉职，他们的精神值得我们学习。"
+                    ]
+                  },
+                  {
+                    "text": "动机",
+                    "status": "new",
+                    "pinyin": [
+                      "dòng",
+                      "jī"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "他帮助同学并不是为了得到表扬，而是因为内心的善意，这种动机很单纯。",
+                      "警察叔叔通过调查，查明了小偷作案的动机，并很快抓住了他。"
+                    ]
+                  },
+                  {
+                    "text": "狭隘",
+                    "status": "new",
+                    "pinyin": [
+                      "xiá",
+                      "ài"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "我们不能用狭隘的眼光看问题，而要学会从多个角度思考。",
+                      "他因为思想狭隘，所以很难接受别人的建议。"
+                    ]
+                  },
+                  {
+                    "text": "极端",
+                    "status": "new",
+                    "pinyin": [
+                      "jí",
+                      "duān"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "在处理同学矛盾时，我们不能采取极端的做法，而应该冷静沟通。",
+                      "天气突然变得极端寒冷，妈妈给我加了件厚毛衣。"
+                    ]
+                  },
+                  {
+                    "text": "热忱",
+                    "status": "new",
+                    "pinyin": [
+                      "rè",
+                      "chén"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "老师对待教学工作充满热忱，我们都非常喜欢上她的课。",
+                      "小明以热忱的态度帮助新同学，让他们很快适应了校园生活。"
+                    ]
+                  },
+                  {
+                    "text": "冷清",
+                    "status": "new",
+                    "pinyin": [
+                      "lěng",
+                      "qīng"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "热闹的集市在傍晚变得冷清起来，只剩下几个收拾摊位的人。",
+                      "寒假里，校园里很冷清，只有几只小鸟在树枝上跳来跳去。"
+                    ]
+                  },
+                  {
+                    "text": "纯粹",
+                    "status": "new",
+                    "pinyin": [
+                      "chún",
+                      "suì"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "孩子们的友谊是纯粹而美好的，不掺杂任何复杂的心思。",
+                      "他写作文就是为了表达纯粹的感受，所以读起来特别真诚。"
+                    ]
+                  },
+                  {
+                    "text": "佩服",
+                    "status": "new",
+                    "pinyin": [
+                      "pèi",
+                      "fú"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "我很佩服爸爸，因为他能耐心地教我解决数学难题。",
+                      "同学们都佩服班长，因为她不仅学习好，而且乐于助人。"
+                    ]
+                  },
+                  {
+                    "text": "高明",
+                    "status": "new",
+                    "pinyin": [
+                      "gāo",
+                      "míng"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "爷爷想出这个高明的办法，让家里的花草都安全度过了夏天。",
+                      "我觉得小丽的主意很高明，既节约时间又完成了任务。"
+                    ]
+                  },
+                  {
+                    "text": "鄙薄",
+                    "status": "new",
+                    "pinyin": [
+                      "bǐ",
+                      "bó"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "我们不应该鄙薄别人的劳动成果，而是要尊重每个人的付出。",
+                      "他总是用鄙薄的语气评价别人，这样非常不礼貌。"
+                    ]
+                  },
+                  {
+                    "text": "出路",
+                    "status": "new",
+                    "pinyin": [
+                      "chū",
+                      "lù"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "爷爷说，只要努力学习，将来就会有好的出路。",
+                      "小兔子迷路了，它想办法找到了回家的出路。"
+                    ]
+                  },
+                  {
+                    "text": "拈轻怕重",
+                    "status": "new",
+                    "pinyin": [
+                      "niān",
+                      "qīng",
+                      "pà",
+                      "zhòng"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "打扫卫生时，小明拈轻怕重，只捡小纸片却不愿拖地。",
+                      "我们不应该拈轻怕重，要主动承担班级里最辛苦的任务。"
+                    ]
+                  },
+                  {
+                    "text": "漠不关心",
+                    "status": "new",
+                    "pinyin": [
+                      "mò",
+                      "bù",
+                      "guān",
+                      "xīn"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "同学摔倒时，我们可不能漠不关心，应该赶紧去扶他。",
+                      "他对班级的事情总是漠不关心，这样可交不到好朋友。"
+                    ]
+                  },
+                  {
+                    "text": "麻木不仁",
+                    "status": "new",
+                    "pinyin": [
+                      "má",
+                      "mù",
+                      "bù",
+                      "rén"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "看到流浪猫在寒风中发抖，他居然麻木不仁地走开了。",
+                      "一个人如果对别人的困难麻木不仁，就会变得很冷漠。"
+                    ]
+                  },
+                  {
+                    "text": "精益求精",
+                    "status": "new",
+                    "pinyin": [
+                      "jīng",
+                      "yì",
+                      "qiú",
+                      "jīng"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "小红练字时精益求精，每个笔画都认认真真地写。",
+                      "画家爷爷精益求精，把画上的树叶改了一遍又一遍。"
+                    ]
+                  },
+                  {
+                    "text": "见异思迁",
+                    "status": "new",
+                    "pinyin": [
+                      "jiàn",
+                      "yì",
+                      "sī",
+                      "qiān"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "小明学画画没几天见异思迁，又想去学钢琴了。",
+                      "我们要坚持自己的目标，不能见异思迁，什么都做不长。"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "4-2",
+              "title": "回忆我的母亲",
+              "index": "11",
+              "isLearned": false,
+              "type": "text",
+              "masteredCount": 0,
+              "unmasteredCount": 1,
+              "tables": {
+                "recognition": [],
+                "writing": [
+                  {
+                    "text": "溺",
+                    "status": "new",
+                    "pinyin": [
+                      "nì"
+                    ],
+                    "relatedWords": [
+                      "溺水",
+                      "沉溺",
+                      "溺爱",
+                      "沉迷"
+                    ],
+                    "sentences": [
+                      "夏天游泳一定要注意安全，千万不能独自去河边玩水，否则容易溺水。",
+                      "他沉溺于电子游戏，学习一落千丈，老师和家长都特别担心。"
+                    ]
+                  }
+                ],
+                "vocab": [
+                  {
+                    "text": "佃农",
+                    "status": "new",
+                    "pinyin": [
+                      "diàn",
+                      "nóng"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "很久以前，佃农租种地主的田，要交很多粮食当租。",
+                      "课本里写那位勤劳的佃农，每天天没亮就下地干活了。"
+                    ]
+                  },
+                  {
+                    "text": "劳碌",
+                    "status": "new",
+                    "pinyin": [
+                      "láo",
+                      "lù"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "妈妈劳碌了一天，晚上还要给我讲睡前故事。",
+                      "爷爷在田里劳碌了一辈子，手上满是厚厚的老茧。"
+                    ]
+                  },
+                  {
+                    "text": "私塾",
+                    "status": "new",
+                    "pinyin": [
+                      "sī",
+                      "shú"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "爷爷说，他小时候在私塾里跟着老先生学《三字经》和《百家姓》。",
+                      "那时候的私塾很简陋，只有几间旧房子和一块写着字的黑板。"
+                    ]
+                  },
+                  {
+                    "text": "周济",
+                    "status": "new",
+                    "pinyin": [
+                      "zhōu",
+                      "jì"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "邻居王奶奶心地善良，常常用自己种的蔬菜周济生活困难的老人。",
+                      "妈妈告诉我，帮助别人不一定要花很多钱，有时一句关心的话也能周济他人。"
+                    ]
+                  },
+                  {
+                    "text": "宽厚",
+                    "status": "new",
+                    "pinyin": [
+                      "kuān",
+                      "hòu"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "我的班主任老师待人宽厚，即使我们犯了错，她也会耐心地教导我们。",
+                      "爸爸是个宽厚的人，从不因为小事和邻居吵架，大家都很尊敬他。"
+                    ]
+                  },
+                  {
+                    "text": "仁慈",
+                    "status": "new",
+                    "pinyin": [
+                      "rén",
+                      "cí"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "仁慈的医生叔叔仔细地为受伤的小猫包扎伤口，还给它喂了温水。",
+                      "奶奶是一位仁慈的老人，她总是把食物分给流浪的小动物们吃。"
+                    ]
+                  },
+                  {
+                    "text": "连夜",
+                    "status": "new",
+                    "pinyin": [
+                      "lián",
+                      "yè"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "为了完成妈妈布置的任务，我连夜把作业写完之后才去睡觉。",
+                      "听说台风要来了，爸爸连夜把阳台上的花盆搬进屋里，以免被风吹倒。"
+                    ]
+                  },
+                  {
+                    "text": "慰勉",
+                    "status": "new",
+                    "pinyin": [
+                      "wèi",
+                      "miǎn"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "考试没考好，妈妈不但没有批评我，反而用温暖的话慰勉我继续努力。",
+                      "老师用鼓励的目光慰勉同学们，让大家在运动会上勇敢发挥。"
+                    ]
+                  },
+                  {
+                    "text": "不辍",
+                    "status": "new",
+                    "pinyin": [
+                      "bù",
+                      "chuò"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "外公虽然年纪大了，但仍然坚持每天练字，几十年不辍。",
+                      "姐姐学钢琴非常勤奋，无论刮风下雨都不辍练习，所以进步很快。"
+                    ]
+                  },
+                  {
+                    "text": "任劳任怨",
+                    "status": "new",
+                    "pinyin": [
+                      "rèn",
+                      "láo",
+                      "rèn",
+                      "yuàn"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "妈妈在家里任劳任怨，每天早起做饭、打扫卫生，从不叫苦。",
+                      "学校里的清洁工叔叔任劳任怨，把校园每个角落都打扫得干干净净。"
+                    ]
+                  },
+                  {
+                    "text": "为富不仁",
+                    "status": "new",
+                    "pinyin": [
+                      "wéi",
+                      "fù",
+                      "bù",
+                      "rén"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "旧社会里有些地主为富不仁，总是想方设法压迫穷苦的农民。",
+                      "爸爸告诉我，做人要善良，绝对不能学那些为富不仁的家伙。"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "4-3",
+              "title": "梅岭三章",
+              "index": "12",
+              "isLearned": false,
+              "type": "text",
+              "masteredCount": 0,
+              "unmasteredCount": 0,
+              "tables": {
+                "recognition": [],
+                "writing": [],
+                "vocab": [
+                  {
+                    "text": "阎罗",
+                    "status": "new",
+                    "pinyin": [
+                      "yán",
+                      "luó"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "爷爷讲故事说，古时候人们认为阎罗是掌管阴间的神。",
+                      "虽然电影里的阎罗看起来很可怕，但我知道这只是神话传说。"
+                    ]
+                  },
+                  {
+                    "text": "捷报",
+                    "status": "new",
+                    "pinyin": [
+                      "jié",
+                      "bào"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "前线传来捷报，我们的队伍打了胜仗，大家高兴得欢呼起来。",
+                      "比赛结束后，学校广播里传来了我们班获得第一名的捷报。"
+                    ]
+                  },
+                  {
+                    "text": "血雨腥风",
+                    "status": "new",
+                    "pinyin": [
+                      "xiě",
+                      "yù",
+                      "xīng",
+                      "fēng"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "战争年代，到处是血雨腥风，老百姓的生活非常艰难。",
+                      "我们要珍惜现在的和平生活，因为它是用无数先烈的血雨腥风换来的。"
+                    ]
+                  },
+                  {
+                    "text": "取义成仁",
+                    "status": "new",
+                    "pinyin": [
+                      "qǔ",
+                      "yí",
+                      "chéng",
+                      "rén"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "革命烈士为了国家和人民取义成仁，他们的精神永远值得我们学习。",
+                      "老师告诉我们要做有道德的人，但现在是和平时期，不需要取义成仁。"
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "unit": "5",
+          "unitName": "第五单元",
+          "lessons": [
+            {
+              "id": "5-1",
+              "title": "猫",
+              "index": "13",
+              "isLearned": false,
+              "type": "text",
+              "masteredCount": 0,
+              "unmasteredCount": 4,
+              "tables": {
+                "recognition": [],
+                "writing": [
+                  {
+                    "text": "逗",
+                    "status": "new",
+                    "pinyin": [
+                      "dòu"
+                    ],
+                    "relatedWords": [
+                      "逗人",
+                      "逗乐",
+                      "逗趣",
+                      "逗笑",
+                      "挑逗"
+                    ],
+                    "sentences": [
+                      "弟弟做了一个鬼脸，逗得全家人哈哈大笑。",
+                      "小猴子在笼子里翻跟头，非常逗人喜爱。"
+                    ]
+                  },
+                  {
+                    "text": "缕",
+                    "status": "new",
+                    "pinyin": [
+                      "lǚ"
+                    ],
+                    "relatedWords": [
+                      "一缕",
+                      "缕缕",
+                      "丝缕",
+                      "千丝万缕",
+                      "缕析"
+                    ],
+                    "sentences": [
+                      "清晨，一缕阳光透过窗帘，照在巨人的花园里。",
+                      "微风吹过，柳树的枝条像缕缕青丝，轻轻飘动。"
+                    ]
+                  },
+                  {
+                    "text": "倚",
+                    "status": "new",
+                    "pinyin": [
+                      "yǐ"
+                    ],
+                    "relatedWords": [
+                      "倚靠",
+                      "倚仗",
+                      "不偏不倚",
+                      "倚窗远望"
+                    ],
+                    "sentences": [
+                      "他站在树下，倚靠着树干，静静地读着一本有趣的故事书。",
+                      "我们要靠自己的努力取得成功，不能总想着倚仗别人。"
+                    ]
+                  },
+                  {
+                    "text": "妄",
+                    "status": "new",
+                    "pinyin": [
+                      "wàng"
+                    ],
+                    "relatedWords": [
+                      "妄想",
+                      "妄图",
+                      "狂妄",
+                      "妄自菲薄",
+                      "轻举妄动"
+                    ],
+                    "sentences": [
+                      "爸爸教导我，做人要谦虚，不能有狂妄自大的想法。",
+                      "小明考试没考好，但他并没有灰心，而是下定决心不再妄想一步登天。"
+                    ]
+                  }
+                ],
+                "vocab": [
+                  {
+                    "text": "消耗",
+                    "status": "new",
+                    "pinyin": [
+                      "xiāo",
+                      "hào"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "跑完八百米后，我体力消耗很大，坐下休息了好久。",
+                      "冰箱里的食物在慢慢消耗，妈妈打算周末再去超市采购。"
+                    ]
+                  },
+                  {
+                    "text": "忧郁",
+                    "status": "new",
+                    "pinyin": [
+                      "yōu",
+                      "yù"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "因为考试成绩不理想，小明这几天一直很忧郁，连笑容都少了。",
+                      "窗外下着绵绵细雨，我的心情也变得有些忧郁。"
+                    ]
+                  },
+                  {
+                    "text": "懒惰",
+                    "status": "new",
+                    "pinyin": [
+                      "lǎn",
+                      "duò"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "懒惰的人总是找借口拖延作业，而勤奋的同学早已完成了任务。",
+                      "我们要克服懒惰的习惯，每天坚持早起读书，才能不断进步。",
+                      "因为懒惰，他没整理书包，结果第二天上课忘了带课本。"
+                    ]
+                  },
+                  {
+                    "text": "怂恿",
+                    "status": "new",
+                    "pinyin": [
+                      "sǒng",
+                      "yǒng"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "弟弟被坏朋友怂恿去爬树，结果不小心摔了下来。",
+                      "幸好我没有听他的话被怂恿去做危险的事情。"
+                    ]
+                  },
+                  {
+                    "text": "安详",
+                    "status": "new",
+                    "pinyin": [
+                      "ān",
+                      "xiáng"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "弟弟躺在床上午睡，样子很安详，妈妈轻轻地关上了门。",
+                      "爷爷坐在公园长椅上晒太阳，神态安详，好像在想着从前的快乐事情。"
+                    ]
+                  },
+                  {
+                    "text": "乞丐",
+                    "status": "new",
+                    "pinyin": [
+                      "qǐ",
+                      "gài"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "街边有一个乞丐，他穿着破旧的衣服，但是眼神很善良。",
+                      "放学后，我看见一个乞丐正在垃圾桶旁找东西吃，心里觉得很难过。"
+                    ]
+                  },
+                  {
+                    "text": "预警",
+                    "status": "new",
+                    "pinyin": [
+                      "yù",
+                      "jǐng"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "大雨来临前，电视里发布了暴雨预警，妈妈赶紧收好了阳台上的衣服。",
+                      "家里的烟雾报警器突然响起来，发出了刺耳的预警声，原来是爸爸在厨房烧菜冒烟了。"
+                    ]
+                  },
+                  {
+                    "text": "怅然",
+                    "status": "new",
+                    "pinyin": [
+                      "chàng",
+                      "rán"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "好朋友转学走了，我望着空空的座位，心里有些怅然。",
+                      "比赛输掉以后，他怅然地站在操场上，一句话也不想说。"
+                    ]
+                  },
+                  {
+                    "text": "蜷伏",
+                    "status": "new",
+                    "pinyin": [
+                      "quán",
+                      "fú"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "寒冷的冬夜，小猫蜷伏在暖气片旁边，睡得非常香甜。",
+                      "那只小刺猬受到惊吓，立刻蜷伏成一团，像一个小刺球。"
+                    ]
+                  },
+                  {
+                    "text": "叮嘱",
+                    "status": "new",
+                    "pinyin": [
+                      "dīng",
+                      "zhǔ"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "妈妈出门前再三叮嘱我，一定要认真完成老师布置的作业。",
+                      "海力布牢记小白蛇的叮嘱，没有把听到的秘密告诉任何人。"
+                    ]
+                  },
+                  {
+                    "text": "惩戒",
+                    "status": "new",
+                    "pinyin": [
+                      "chéng",
+                      "jiè"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "因为上课说话，老师让他在教室后面站了五分钟作为惩戒。",
+                      "小狗偷吃了桌上的肉，爸爸严厉地批评了它，这是为了惩戒它的坏习惯。"
+                    ]
+                  },
+                  {
+                    "text": "悲楚",
+                    "status": "new",
+                    "pinyin": [
+                      "bēi",
+                      "chǔ"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "看到流浪的小狗在雨里发抖，它的眼神十分悲楚，姐姐忍不住蹲下来安慰它。",
+                      "考试成绩很差，他低着头走出校门，脸上露出悲楚的表情。"
+                    ]
+                  },
+                  {
+                    "text": "断语",
+                    "status": "new",
+                    "pinyin": [
+                      "duàn",
+                      "yù"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "老师告诉我们，没有弄清事实之前，不要轻易下断语。",
+                      "妈妈看了我的作业，没有下断语，只是让我再仔细检查一遍。"
+                    ]
+                  },
+                  {
+                    "text": "冤枉",
+                    "status": "new",
+                    "pinyin": [
+                      "yuān",
+                      "wǎng"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "弟弟明明是自己打碎了花瓶，却冤枉是我不小心碰倒的，让我非常生气。",
+                      "妈妈问谁偷吃了零食，我还没开口，弟弟就大声说不是我，结果发现冤枉了好人。"
+                    ]
+                  },
+                  {
+                    "text": "虐待",
+                    "status": "new",
+                    "pinyin": [
+                      "nüè",
+                      "dài"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "我们不能虐待小动物，因为它们也是我们的好朋友，需要用心去爱护。",
+                      "看到新闻里有人虐待流浪猫，同学们都很气愤，决定一起帮助那些受伤的小猫。"
+                    ]
+                  },
+                  {
+                    "text": "芙蓉鸟",
+                    "status": "new",
+                    "pinyin": [
+                      "fú",
+                      "róng",
+                      "niǎo"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "爷爷养了一只漂亮的芙蓉鸟，每天清晨它的歌声都能把我从梦中唤醒。",
+                      "芙蓉鸟的羽毛颜色很鲜艳，它站在笼子里欢快地跳来跳去，特别可爱。"
+                    ]
+                  },
+                  {
+                    "text": "畏罪潜逃",
+                    "status": "new",
+                    "pinyin": [
+                      "wèi",
+                      "zuì",
+                      "qián",
+                      "táo"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "小偷被警察发现后，想要畏罪潜逃，但是很快就被抓住了。",
+                      "犯错之后不能畏罪潜逃，应该勇敢承认错误并且改正，这样才能获得原谅。"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "5-2",
+              "title": "我的白鸽",
+              "index": "14",
+              "isLearned": false,
+              "type": "text",
+              "masteredCount": 0,
+              "unmasteredCount": 1,
+              "tables": {
+                "recognition": [],
+                "writing": [
+                  {
+                    "text": "喙",
+                    "status": "new",
+                    "pinyin": [
+                      "huì"
+                    ],
+                    "relatedWords": [
+                      "鸟喙",
+                      "尖喙",
+                      "喙部",
+                      "长喙"
+                    ],
+                    "sentences": [
+                      "翠鸟站在河边的树枝上，用它又尖又长的喙一下子啄住了水里的小鱼。",
+                      "啄木鸟的喙像一把小锤子，能咚咚咚地敲开树皮找到藏在里面的虫子。"
+                    ]
+                  }
+                ],
+                "vocab": [
+                  {
+                    "text": "惬意",
+                    "status": "new",
+                    "pinyin": [
+                      "qiè",
+                      "yì"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "周末下午，我躺在阳台的摇椅上看漫画书，微风轻轻吹过，感觉特别惬意。",
+                      "爸爸在公园里散步，看着美丽的晚霞，脸上露出惬意的笑容。"
+                    ]
+                  },
+                  {
+                    "text": "排解",
+                    "status": "new",
+                    "pinyin": [
+                      "pái",
+                      "jiè"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "我心情不好的时候，就喜欢在操场上跑步，因为运动能帮助我排解烦恼。",
+                      "为了排解思念，他每天都会给远方的朋友写一封信，虽然寄出去很慢。"
+                    ]
+                  },
+                  {
+                    "text": "豁朗",
+                    "status": "new",
+                    "pinyin": [
+                      "huó",
+                      "lǎng"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "爬到山顶后，眼前的风景一下子变得豁朗起来，所有的烦恼都消失了。",
+                      "经过老师的耐心讲解，这道难题终于让我豁朗了，心里特别高兴。"
+                    ]
+                  },
+                  {
+                    "text": "蜕变",
+                    "status": "new",
+                    "pinyin": [
+                      "tuì",
+                      "biàn"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "夏天过去后，小蝌蚪完成了蜕变，终于变成了一只绿色的小青蛙。",
+                      "经过不断地练习，他的画画水平有了很大的蜕变，画得比原来好看多了。"
+                    ]
+                  },
+                  {
+                    "text": "邋遢",
+                    "status": "new",
+                    "pinyin": [
+                      "lā",
+                      "ta"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "哥哥的房间特别邋遢，书和衣服扔得到处都是，妈妈让他赶紧收拾干净。",
+                      "小明的书包总是很邋遢，里面的书本卷着角，连铅笔也找不到。"
+                    ]
+                  },
+                  {
+                    "text": "骊山",
+                    "status": "new",
+                    "pinyin": [
+                      "lí",
+                      "shān"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "暑假的时候，爸爸带我去西安游玩，我们一起去爬了风景优美的骊山。",
+                      "妈妈说骊山脚下有著名的华清池，那里有好多古代的故事呢。"
+                    ]
+                  },
+                  {
+                    "text": "亭亭玉立",
+                    "status": "new",
+                    "pinyin": [
+                      "tíng",
+                      "tíng",
+                      "yù",
+                      "lì"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "池塘里，荷花开了，一朵朵亭亭玉立地站在水面上，像美丽的仙女。",
+                      "春天到了，路边的玉兰花在枝头亭亭玉立，散发出淡淡的香味。"
+                    ]
+                  },
+                  {
+                    "text": "风烛残年",
+                    "status": "new",
+                    "pinyin": [
+                      "fēng",
+                      "zhú",
+                      "cán",
+                      "nián"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "老奶奶已经八十多岁了，虽然到了风烛残年的年纪，但她的笑容依然很温暖。",
+                      "邻居王爷爷在风烛残年的时候，还坚持每天给院子里的花儿浇水。"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "5-3",
+              "title": "大雁归来",
+              "index": "15",
+              "isLearned": false,
+              "type": "text",
+              "masteredCount": 0,
+              "unmasteredCount": 0,
+              "tables": {
+                "recognition": [],
+                "writing": [],
+                "vocab": [
+                  {
+                    "text": "雾霭",
+                    "status": "new",
+                    "pinyin": [
+                      "wù",
+                      "ǎi"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "早上的湖边笼罩着一层淡淡的雾霭，远处的山都看不清了，像在梦里一样。",
+                      "秋天的时候，林子里常常有浓浓的雾霭，走在里面感觉凉凉的、湿湿的。"
+                    ]
+                  },
+                  {
+                    "text": "缄默",
+                    "status": "new",
+                    "pinyin": [
+                      "jiān",
+                      "mò"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "上课铃响了，刚才还热闹的教室一下子变得很缄默，大家都在等老师进来。",
+                      "小丽因为做错了事，被妈妈批评后，就一直缄默地坐在沙发上不说话。"
+                    ]
+                  },
+                  {
+                    "text": "迁徙",
+                    "status": "new",
+                    "pinyin": [
+                      "qiān",
+                      "xǐ"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "秋天到了，大雁们排成人字形队伍，开始了飞往南方的长途迁徙。",
+                      "为了寻找更多的食物，许多鸟类每年都要进行一次大规模的迁徙。"
+                    ]
+                  },
+                  {
+                    "text": "赌注",
+                    "status": "new",
+                    "pinyin": [
+                      "dǔ",
+                      "zhù"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "下棋时，小明说如果他输了就帮大家打扫教室，这个赌注让大家都很兴奋。",
+                      "运动会上，同学们都为各自的班级加油，把荣誉当作最大的赌注。"
+                    ]
+                  },
+                  {
+                    "text": "沼泽",
+                    "status": "new",
+                    "pinyin": [
+                      "zhǎo",
+                      "zé"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "探险故事里，主人公不小心走进了一片危险的沼泽，幸好被队友及时救出来。",
+                      "春天，沼泽地里长出了许多嫩绿的芦苇，野鸭在那里快乐地游来游去。"
+                    ]
+                  },
+                  {
+                    "text": "瞄准",
+                    "status": "new",
+                    "pinyin": [
+                      "miáo",
+                      "zhǔn"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "射击课上，小军眯起一只眼睛，仔细瞄准远处的靶心。",
+                      "足球比赛时，前锋瞄准球门死角，一脚抽射，球应声入网。"
+                    ]
+                  },
+                  {
+                    "text": "盘旋",
+                    "status": "new",
+                    "pinyin": [
+                      "pán",
+                      "xuán"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "老鹰在天空盘旋了好几圈，然后突然俯冲下来，敏捷地抓住了猎物。",
+                      "放学路上，我看到一群鸽子在广场上空盘旋，它们飞得那么自由自在。"
+                    ]
+                  },
+                  {
+                    "text": "喧嚷",
+                    "status": "new",
+                    "pinyin": [
+                      "xuān",
+                      "rǎng"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "下课铃一响，原本安静的走廊立刻变得喧嚷起来，到处都是同学的欢笑声。",
+                      "菜市场里人声喧嚷，卖菜的叔叔阿姨都在大声吆喝着招揽顾客。"
+                    ]
+                  },
+                  {
+                    "text": "邀请",
+                    "status": "new",
+                    "pinyin": [
+                      "yāo",
+                      "qǐng"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "生日那天，我亲手制作了漂亮的邀请卡，邀请最好的朋友来参加派对。",
+                      "学校举办艺术节，老师邀请了一位画家来教我们画水彩画，大家都很开心。"
+                    ]
+                  },
+                  {
+                    "text": "凋零",
+                    "status": "new",
+                    "pinyin": [
+                      "diāo",
+                      "líng"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "秋天到了，树上的叶子渐渐凋零，飘落在地上，铺成了一条金色的小路。",
+                      "奶奶说花开花落是自然规律，虽然花朵会凋零，但来年春天又会重新盛开。"
+                    ]
+                  },
+                  {
+                    "text": "枯燥",
+                    "status": "new",
+                    "pinyin": [
+                      "kū",
+                      "sào"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "这本书的内容太枯燥了，我读了几页就想打瞌睡，一点也提不起兴趣。",
+                      "数学练习题做多了会觉得枯燥，但是如果能解出难题，又会感到很有成就感。"
+                    ]
+                  },
+                  {
+                    "text": "弥漫",
+                    "status": "new",
+                    "pinyin": [
+                      "mí",
+                      "màn"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "厨房里弥漫着妈妈做的红烧肉的香味，馋得我偷偷跑进去尝了一块。",
+                      "清晨的森林里，薄雾弥漫，远处的树木变得模模糊糊，像仙境一样美丽。"
+                    ]
+                  },
+                  {
+                    "text": "目空一切",
+                    "status": "new",
+                    "pinyin": [
+                      "mù",
+                      "kōng",
+                      "yī",
+                      "qiè"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "小明考试得了第一名后变得目空一切，但是老师告诉他要继续保持谦虚。",
+                      "那个自以为是的同学总是目空一切，所以大家都不太喜欢和他一起玩。"
+                    ]
+                  },
+                  {
+                    "text": "偷偷摸摸",
+                    "status": "new",
+                    "pinyin": [
+                      "tōu",
+                      "tōu",
+                      "mō",
+                      "mō"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "弟弟偷偷摸摸地溜进厨房，想要拿一块巧克力蛋糕来吃。",
+                      "小猫偷偷摸摸地靠近小鸟，可是还没到跟前就被发现了。"
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "unit": "6",
+          "unitName": "第六单元",
+          "lessons": [
+            {
+              "id": "6-1",
+              "title": "小圣施威降大圣",
+              "index": "16",
+              "isLearned": false,
+              "type": "text",
+              "masteredCount": 0,
+              "unmasteredCount": 2,
+              "tables": {
+                "recognition": [],
+                "writing": [
+                  {
+                    "text": "擎",
+                    "status": "new",
+                    "pinyin": [
+                      "qíng"
+                    ],
+                    "relatedWords": [
+                      "擎天",
+                      "高擎",
+                      "擎举",
+                      "擎着"
+                    ],
+                    "sentences": [
+                      "运动会上，小明用力擎起班牌，带领同学们昂首挺胸走过主席台。",
+                      "消防员叔叔高高擎起水枪，勇敢地扑灭了大火。"
+                    ]
+                  },
+                  {
+                    "text": "淬",
+                    "status": "new",
+                    "pinyin": [
+                      "cuì"
+                    ],
+                    "relatedWords": [
+                      "淬火",
+                      "磨淬",
+                      "淬炼",
+                      "淬砺"
+                    ],
+                    "sentences": [
+                      "铁匠叔叔把烧红的铁块放进水里淬火，这样铁就会变得更坚硬。",
+                      "在学习中遇到困难时，我们要像淬炼钢铁一样努力锻炼自己。"
+                    ]
+                  }
+                ],
+                "vocab": [
+                  {
+                    "text": "规模",
+                    "status": "new",
+                    "pinyin": [
+                      "guī",
+                      "mó"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "我们学校的新操场规模很大，可以同时让好几个班级上体育课。",
+                      "这次爱心义卖活动的规模比去年更大，很多同学都捐出了自己的玩具。"
+                    ]
+                  },
+                  {
+                    "text": "寻觅",
+                    "status": "new",
+                    "pinyin": [
+                      "xún",
+                      "mì"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "秋天来了，小松鼠在树林里四处寻觅，想要找到足够的松果过冬。",
+                      "我在书架前仔细寻觅，终于找到了那本我最喜欢的故事书。"
+                    ]
+                  },
+                  {
+                    "text": "吆喝",
+                    "status": "new",
+                    "pinyin": [
+                      "yāo",
+                      "he"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "菜市场里，卖菜的叔叔阿姨大声吆喝着自己的菜新鲜又便宜，吸引了很多顾客。",
+                      "游乐园里，小贩一边吆喝着卖气球，一边把五颜六色的气球高高举过头顶。"
+                    ]
+                  },
+                  {
+                    "text": "踪迹",
+                    "status": "new",
+                    "pinyin": [
+                      "zōng",
+                      "jì"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "大雪过后，院子里看不见小鸟的踪迹，它们都飞到南方过冬去了。",
+                      "我在森林里仔细寻找，终于发现了野兔留下的踪迹，心里非常兴奋。"
+                    ]
+                  },
+                  {
+                    "text": "庙宇",
+                    "status": "new",
+                    "pinyin": [
+                      "miào",
+                      "yǔ"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "这座古老的庙宇已经有好几百年历史了，每年都有很多人来参观。",
+                      "春节时，庙宇前的广场上热闹极了，有舞龙还有猜灯谜。"
+                    ]
+                  },
+                  {
+                    "text": "神通",
+                    "status": "new",
+                    "pinyin": [
+                      "shén",
+                      "tòng"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "孙悟空的神通可真大，一个跟斗就能翻十万八千里。",
+                      "在这次科技节上，同学们各显神通，做出了许多有创意的作品。"
+                    ]
+                  },
+                  {
+                    "text": "提防",
+                    "status": "new",
+                    "pinyin": [
+                      "tí",
+                      "fáng"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "过马路时我们要提防突然冲出的车辆，一定要走斑马线并看清红绿灯。",
+                      "妈妈提醒我，在公园玩耍时要提防摔倒，因为雨后地面还有些湿滑。"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "6-2",
+              "title": "皇帝的新装",
+              "index": "17",
+              "isLearned": false,
+              "type": "text",
+              "masteredCount": 0,
+              "unmasteredCount": 3,
+              "tables": {
+                "recognition": [],
+                "writing": [
+                  {
+                    "text": "笨",
+                    "status": "new",
+                    "pinyin": [
+                      "bèn"
+                    ],
+                    "relatedWords": [
+                      "笨重",
+                      "笨蛋",
+                      "笨拙",
+                      "笨手笨脚",
+                      "笨鸟先飞"
+                    ],
+                    "sentences": [
+                      "大象的身体虽然很笨重，但是它的鼻子却非常灵活。",
+                      "因为我知道自己有些笨，所以我要笨鸟先飞，比别人更努力。",
+                      "妈妈说我做家务时笨手笨脚的，但是我很愿意帮忙。"
+                    ]
+                  },
+                  {
+                    "text": "赐",
+                    "status": "new",
+                    "pinyin": [
+                      "cì"
+                    ],
+                    "relatedWords": [
+                      "恩赐",
+                      "赏赐",
+                      "赐予",
+                      "赐教"
+                    ],
+                    "sentences": [
+                      "国王为了感谢勇士的勇敢，赐给他一匹高大的白马和一把锋利的宝剑。",
+                      "老师说读书能赐给我们智慧，所以每天放学后我都会认真阅读课外书。"
+                    ]
+                  },
+                  {
+                    "text": "聘",
+                    "status": "new",
+                    "pinyin": [
+                      "pìn"
+                    ],
+                    "relatedWords": [
+                      "聘请",
+                      "招聘",
+                      "应聘",
+                      "聘用"
+                    ],
+                    "sentences": [
+                      "学校为了丰富大家的课余生活，专门聘请了一位专业的象棋老师来指导我们。",
+                      "这家公司需要招聘新员工，爸爸准备了一份简历去应聘设计师的岗位。"
+                    ]
+                  }
+                ],
+                "vocab": [
+                  {
+                    "text": "炫耀",
+                    "status": "new",
+                    "pinyin": [
+                      "xuàn",
+                      "yào"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "小刚考了第一名，但他从不炫耀自己的成绩，反而主动帮助同学复习功课。",
+                      "邻居阿姨买了一条新裙子，她没有到处炫耀，只是安静地穿去上班。"
+                    ]
+                  },
+                  {
+                    "text": "称职",
+                    "status": "new",
+                    "pinyin": [
+                      "chèn",
+                      "zhí"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "班长不仅学习成绩好，还热心帮助大家，同学们都觉得他是一位称职的班干部。",
+                      "消防员叔叔们勇敢又负责，每一次任务都完成得很出色，他们是非常称职的守护者。"
+                    ]
+                  },
+                  {
+                    "text": "愚蠢",
+                    "status": "new",
+                    "pinyin": [
+                      "yú",
+                      "chǔn"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "狐狸用花言巧语骗走了乌鸦嘴里的肉，乌鸦后来才明白自己做了件愚蠢的事。",
+                      "下雨天在树下躲雨是很愚蠢的行为，因为那样容易被雷电击中，十分危险。"
+                    ]
+                  },
+                  {
+                    "text": "现款",
+                    "status": "new",
+                    "pinyin": [
+                      "xiàn",
+                      "kuǎn"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "奶奶去菜市场买菜时，总是用现款付钱，她说这样能更好地控制花费。",
+                      "爸爸为家里买了一台新冰箱，因为现金不够，所以一半用现款，一半用手机支付。"
+                    ]
+                  },
+                  {
+                    "text": "妥当",
+                    "status": "new",
+                    "pinyin": [
+                      "tuǒ",
+                      "dāng"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "妈妈把家里的东西都收拾得妥妥当，客人来了一直夸奖她。",
+                      "做值日时，我们把桌椅摆得妥妥当当，老师检查后满意地笑了。",
+                      "旅行出发前，爸爸仔细检查行李是否准备妥当，生怕忘带重要东西。"
+                    ]
+                  },
+                  {
+                    "text": "理智",
+                    "status": "new",
+                    "pinyin": [
+                      "lǐ",
+                      "zhì"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "鲁滨逊在荒岛上始终保持理智，他没有慌乱，而是像工程师一样规划每一天的生活。",
+                      "发生矛盾时，我们要用理智来解决问题，而不是冲动地大喊大叫。"
+                    ]
+                  },
+                  {
+                    "text": "呈报",
+                    "status": "new",
+                    "pinyin": [
+                      "chéng",
+                      "bào"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "班长把同学们对春游地点的建议整理好，准备明天呈报给班主任老师。",
+                      "调查员将这次事故的详细情况写成了报告，并立即呈报给上级领导审阅。"
+                    ]
+                  },
+                  {
+                    "text": "钦差",
+                    "status": "new",
+                    "pinyin": [
+                      "qīn",
+                      "chāi"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "古代皇帝会派钦差大臣到各地去巡查，了解百姓的生活情况。",
+                      "这位钦差大人来到小镇，宣布了一个重要的消息，大家都很好奇。"
+                    ]
+                  },
+                  {
+                    "text": "滑稽",
+                    "status": "new",
+                    "pinyin": [
+                      "huá",
+                      "jī"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "小丑的表演非常滑稽，他夸张的动作逗得台下的同学们哈哈大笑。",
+                      "弟弟戴上一顶大帽子，样子很滑稽，连妈妈都忍不住笑出声来。"
+                    ]
+                  },
+                  {
+                    "text": "圈定",
+                    "status": "new",
+                    "pinyin": [
+                      "quān",
+                      "dìng"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "老师在名单上圈定了参加朗诵比赛的同学，大家都很兴奋。",
+                      "爸爸用红笔在地图上圈定了我们周末要去的景点，我非常期待。"
+                    ]
+                  },
+                  {
+                    "text": "狡猾",
+                    "status": "new",
+                    "pinyin": [
+                      "jiǎo",
+                      "huá"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "狐狸非常狡猾，它用计谋骗走了乌鸦嘴里的那块肉。",
+                      "这个故事告诉我们，不要因为狡猾的坏人而害怕，要勇敢地想办法。"
+                    ]
+                  },
+                  {
+                    "text": "陛下",
+                    "status": "new",
+                    "pinyin": [
+                      "bì",
+                      "xià"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "陛下在宫殿里召见大臣，询问国家大事，大家都认真听着。",
+                      "公主向陛下行礼后，微笑着走出大殿，去和朋友们一起玩耍。"
+                    ]
+                  },
+                  {
+                    "text": "爵士",
+                    "status": "new",
+                    "pinyin": [
+                      "jué",
+                      "shì"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "这位爵士因为勇敢地救助村民，得到了国王的表扬和奖励。",
+                      "晚会上，爵士穿着华丽的礼服，优雅地跳了一支舞，大家热烈鼓掌。"
+                    ]
+                  },
+                  {
+                    "text": "头衔",
+                    "status": "new",
+                    "pinyin": [
+                      "tou",
+                      "xián"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "爷爷年轻时获得了劳动模范的头衔，我一直很敬佩他。",
+                      "那个人虽然有很高的头衔，但他对每个人都很友善和谦虚。"
+                    ]
+                  },
+                  {
+                    "text": "勋章",
+                    "status": "new",
+                    "pinyin": [
+                      "xūn",
+                      "zhāng"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "爸爸把他获得的勋章擦得亮亮的，然后小心地放进抽屉里。",
+                      "那位消防员因为救了很多人，被授予了一枚金灿灿的勋章。"
+                    ]
+                  },
+                  {
+                    "text": "袍子",
+                    "status": "new",
+                    "pinyin": [
+                      "páo",
+                      "zǐ"
+                    ],
+                    "relatedWords": [],
+                    "sentences": []
+                  },
+                  {
+                    "text": "不可救药",
+                    "status": "new",
+                    "pinyin": [
+                      "bù",
+                      "kě",
+                      "jiù",
+                      "yào"
+                    ],
+                    "relatedWords": [],
+                    "sentences": []
+                  },
+                  {
+                    "text": "骇人听闻",
+                    "status": "new",
+                    "pinyin": [
+                      "hài",
+                      "rén",
+                      "tīng",
+                      "wén"
+                    ],
+                    "relatedWords": [],
+                    "sentences": []
+                  },
+                  {
+                    "text": "随声附和",
+                    "status": "new",
+                    "pinyin": [
+                      "suí",
+                      "shēng",
+                      "fù",
+                      "hè"
+                    ],
+                    "relatedWords": [],
+                    "sentences": []
+                  }
+                ]
+              }
+            },
+            {
+              "id": "6-3",
+              "title": "女娲造人",
+              "index": "18",
+              "isLearned": false,
+              "type": "text",
+              "masteredCount": 0,
+              "unmasteredCount": 1,
+              "tables": {
+                "recognition": [],
+                "writing": [
+                  {
+                    "text": "揉",
+                    "status": "new",
+                    "pinyin": [
+                      "róu"
+                    ],
+                    "relatedWords": [
+                      "揉搓",
+                      "揉一揉",
+                      "揉面",
+                      "揉开"
+                    ],
+                    "sentences": [
+                      "奶奶教我和面，她说要用力揉面，做出的馒头才松软好吃。",
+                      "我的眼睛有点痒，妈妈帮轻轻地我揉一揉，果然舒服多了。",
+                      "画画时，我不小心把纸揉皱了，只好重新画一张。"
+                    ]
+                  }
+                ],
+                "vocab": [
+                  {
+                    "text": "荒凉",
+                    "status": "new",
+                    "pinyin": [
+                      "huāng",
+                      "liáng"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "昔日热闹的村庄如今变得荒凉，只剩几间破旧的老屋在风中沉默。",
+                      "沙漠里一片荒凉，除了黄沙还是黄沙，看不到半点绿色。",
+                      "想到要独自面对那片荒凉的戈壁，他的心里不禁涌起一阵孤寂。"
+                    ]
+                  },
+                  {
+                    "text": "莽莽",
+                    "status": "new",
+                    "pinyin": [
+                      "mǎng",
+                      "mǎng"
+                    ],
+                    "relatedWords": [],
+                    "sentences": []
+                  },
+                  {
+                    "text": "蓬勃",
+                    "status": "new",
+                    "pinyin": [
+                      "péng",
+                      "bó"
+                    ],
+                    "relatedWords": [],
+                    "sentences": []
+                  },
+                  {
+                    "text": "澄澈",
+                    "status": "new",
+                    "pinyin": [
+                      "chéng",
+                      "chè"
+                    ],
+                    "relatedWords": [],
+                    "sentences": []
+                  },
+                  {
+                    "text": "掺和",
+                    "status": "new",
+                    "pinyin": [
+                      "chān",
+                      "huo"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "爸爸在厨房里做菜时，我也想去掺和，结果把盐和糖搞混了。",
+                      "姐姐们在讨论去哪里玩，弟弟非要掺和，闹得大家都没法好好商量。"
+                    ]
+                  },
+                  {
+                    "text": "气概",
+                    "status": "new",
+                    "pinyin": [
+                      "qì",
+                      "gài"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "在这次拔河比赛中，我们班同学展现了不服输的气概，最终赢得了胜利。",
+                      "看到消防员叔叔勇敢冲进火场救人，我感受到了英雄的气概。"
+                    ]
+                  },
+                  {
+                    "text": "灵敏",
+                    "status": "new",
+                    "pinyin": [
+                      "líng",
+                      "mǐn"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "爷爷虽然年纪大了，但他听声音依然很灵敏，总能第一个听到门铃声。",
+                      "小猫咪的耳朵非常灵敏，一听到罐头打开的声音，就立刻从远处跑过来。"
+                    ]
+                  },
+                  {
+                    "text": "泥潭",
+                    "status": "new",
+                    "pinyin": [
+                      "ní",
+                      "tán"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "昨天的一场大雨让村子里的道路变成了一个大泥潭，我们走路要特别小心。",
+                      "青蛙跳进泥潭里，只露出两只大眼睛，好像在和我们玩捉迷藏。"
+                    ]
+                  },
+                  {
+                    "text": "绵延",
+                    "status": "new",
+                    "pinyin": [
+                      "mián",
+                      "yán"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "远处的山脉绵延起伏，像一条巨大的青龙卧在大地上。",
+                      "秋天的菊花田里，金黄的花朵绵延成一片花海，十分壮观。"
+                    ]
+                  },
+                  {
+                    "text": "灵机一动",
+                    "status": "new",
+                    "pinyin": [
+                      "líng",
+                      "jī",
+                      "yī",
+                      "dòng"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "小明忘记带橡皮了，他灵机一动，用铅笔头后面自带的橡皮解决了问题。",
+                      "小猫跳上桌子打翻了水杯，我灵机一动，赶紧用毛巾吸水，避免了作业本被弄湿。"
+                    ]
+                  },
+                  {
+                    "text": "眉开眼笑",
+                    "status": "new",
+                    "pinyin": [
+                      "méi",
+                      "kāi",
+                      "yǎn",
+                      "xiào"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "听到爷爷说要带他去游乐园，弟弟立刻眉开眼笑，高兴得跳了起来。",
+                      "妈妈看到我递给她亲手制作的贺卡，顿时眉开眼笑，给了我一个大大的拥抱。"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "6-4",
+              "title": "寓言四则",
+              "index": "19",
+              "isLearned": false,
+              "type": "text",
+              "masteredCount": 0,
+              "unmasteredCount": 0,
+              "tables": {
+                "recognition": [],
+                "writing": [],
+                "vocab": [
+                  {
+                    "text": "雕像",
+                    "status": "new",
+                    "pinyin": [
+                      "diāo",
+                      "xiàng"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "公园里有一座高大的雕像，他是为了纪念一位伟大的科学家而建造的。",
+                      "这个雕像雕刻得特别传神，远远看去就像一位真正的老人在那里散步。"
+                    ]
+                  },
+                  {
+                    "text": "庇护",
+                    "status": "new",
+                    "pinyin": [
+                      "bì",
+                      "hù"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "下雨了，小鸟们躲在大树的枝叶下，大树就像一把大伞庇护着它们。",
+                      "因为有了祖国妈妈的庇护，我们才能安心地在教室里学习知识。"
+                    ]
+                  },
+                  {
+                    "text": "爱慕",
+                    "status": "new",
+                    "pinyin": [
+                      "ài",
+                      "mù"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "我们不能只爱慕别人的好成绩，自己也要努力去争取。",
+                      "那只孔雀展开尾巴，好像在向游客展示它最值得爱慕的一面。"
+                    ]
+                  },
+                  {
+                    "text": "虚荣",
+                    "status": "new",
+                    "pinyin": [
+                      "xū",
+                      "róng"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "奶奶说做人不能太虚荣，要像地里的稻谷那样，越饱满越懂得低头。",
+                      "那只小孔雀因为虚荣，非要在雨天开屏比美，结果漂亮的羽毛全被打湿了。"
+                    ]
+                  },
+                  {
+                    "text": "较量",
+                    "status": "new",
+                    "pinyin": [
+                      "jiào",
+                      "liàng"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "运动会上，我们班和隔壁班在拔河比赛中进行了一场激烈的较量，最后我们赢了。",
+                      "弟弟和邻居小明在院子里较量谁骑自行车骑得更快，他们都很认真。"
+                    ]
+                  },
+                  {
+                    "text": "凯歌",
+                    "status": "new",
+                    "pinyin": [
+                      "kǎi",
+                      "gē"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "经过一个月的刻苦训练，我们班在合唱比赛中终于取得第一名，大家高兴地唱着凯歌。",
+                      "消防员叔叔扑灭了森林大火，村民们敲锣打鼓，像迎接凯歌归来的英雄一样迎接他们。"
+                    ]
+                  },
+                  {
+                    "text": "杞人忧天",
+                    "status": "new",
+                    "pinyin": [
+                      "qǐ",
+                      "rén",
+                      "yōu",
+                      "tiān"
+                    ],
+                    "relatedWords": [],
+                    "sentences": [
+                      "妈妈笑着对我说，别为明天的小考试担心得睡不着，这样简直是杞人忧天。",
+                      "表哥总是担心他的玩具会被弄坏，所以从来不拿出来玩，姑姑说他这是杞人忧天。"
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
